@@ -64,25 +64,25 @@ A Spring Boot application providing REST API for task management with MongoDB in
 - Maven 3.6 or higher
 - Docker
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/Anurag-methi/Kaiburr-Task1.git
 cd Task1
 ```
-## 2. Start MongoDB
+### 2. Start MongoDB
 ```bash
 docker run -d -p 27017:27017 --name mongodb-anurag mongo:latest
 ```
-## 3. Build the Application
+### 3. Build the Application
 ```bash
 mvn clean package
 ```
-## 4. Run the Application
+### 4. Run the Application
 ```bash
 java -jar target/task-app-1.0.0.jar
 ```
 
-## 5. Verify Installation
+### 5. Verify Installation
 ```bash
 curl http://localhost:8080/api/tasks/health
 ```
