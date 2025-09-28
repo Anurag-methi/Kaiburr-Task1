@@ -1,0 +1,6 @@
+com\anurag\taskapp\repository\TaskRepository.class
+com\anurag\taskapp\service\TaskService.class
+com\anurag\taskapp\controller\TaskController.class
+com\anurag\taskapp\TaskAppApplication.class
+com\anurag\taskapp\model\TaskExecution.class
+com\anurag\taskapp\model\Task.class
