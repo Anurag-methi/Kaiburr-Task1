@@ -14,6 +14,30 @@ A Spring Boot application providing REST API for task management with MongoDB in
 - **Search functionality** by task name
 - **Health check endpoint** for monitoring
 
+## 📸 Demonstration Screenshots
+
+### Health Check Endpoint
+![Health Check](./Screenshots/health-check.png)
+
+### Create Task Endpoint
+![Create Task](./Screenshots/create-task.png)
+
+### Get All Tasks
+![Get All Tasks](./Screenshots/get-all-tasks.png)
+
+### Get Task by ID
+![Get Task by ID](./Screenshots/get-task-by-id.png)
+
+### Search Tasks
+![Search Tasks](./Screenshots/search-tasks.png)
+
+### Validation (Allowed Commands)
+![Validation](./Screenshots/validation.png)
+
+### Empty Database (Before Inserting Task)
+![Empty Database](./Screenshots/Empty.png)
+
+
 ## 🚀 API Endpoints
 
 | Method | Endpoint | Description |
